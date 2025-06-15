@@ -89,7 +89,7 @@ nav {
 /* ABOUT ME */
 
 #about-me {
-    min-height: 100px;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
