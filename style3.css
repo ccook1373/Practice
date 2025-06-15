@@ -122,10 +122,6 @@ nav {
     width: 100%;
 }
 
-/* Improving my own picture */
-transform: scale(1.5);
-padding-top: 8px;
-
 .about-me__info--title {
     margin-bottom: 16px;
 }
